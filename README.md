@@ -96,5 +96,5 @@ We fix the signals it learns from.
 
 ## 👤 Author
 
-Shreya Patro  
+Shreya Patro Sisinthy, Utsah Sinha 
 Computer Science | Data Science Enthusiast  
